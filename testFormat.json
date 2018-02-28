@@ -87,7 +87,9 @@
     },
     {
       "names": ["gamesComMeetupId"],
-      "values": [327]
+      "values": [
+        [327]
+      ]
     }
     ]
 }
